@@ -21,7 +21,7 @@ Cientista de dados motivado e estudando/trabalhando com ciência de dados. Inter
 ## Projetos:
 Projeto realizados baseado em dados reais:
 
-* **Detecção de cancêr de pele:** https://bit.ly/Skin_Cancer_ML
+* **Detecção de câncer de pele:** https://bit.ly/Skin_Cancer_ML
 
 ---
 

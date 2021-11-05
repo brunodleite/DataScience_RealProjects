@@ -19,15 +19,9 @@ Cientista de dados motivado e estudando/trabalhando com ciência de dados. Inter
 * [Kaggle](https://www.kaggle.com/brunodleite)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Projeto realizados baseado em dados reais:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Detecção de cancêr de pele:** https://bit.ly/Skin_Cancer_ML
 
 ---
 

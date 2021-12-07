@@ -5,7 +5,6 @@
 </p>
 
 # Bruno Leite
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 Data Scientist motivated and studying/working with data science. Interested in working on data area to solve problems and decision-making. Developed projects in the area of computer vision using all necessary tools, applying machine learning and deep learning methods. Working on data generation and manipulation.
 
